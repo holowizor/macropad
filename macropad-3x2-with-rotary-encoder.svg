@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="253.83156"
-     inkscape:cy="303.60162"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="238.21763"
+     inkscape:cy="260.65665"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -35,10 +35,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:lockguides="false"
-     inkscape:window-width="1465"
-     inkscape:window-height="1040"
-     inkscape:window-x="156"
-     inkscape:window-y="0"
+     inkscape:window-width="1452"
+     inkscape:window-height="1000"
+     inkscape:window-x="224"
+     inkscape:window-y="8"
      inkscape:window-maximized="0">
     <sodipodi:guide
        position="1.3063802,257.00244"
@@ -93,6 +93,30 @@
        position="104.99824,248.18438"
        orientation="1,0"
        id="guide11498" />
+    <sodipodi:guide
+       position="37.499583,261.33623"
+       orientation="1,0"
+       id="guide256" />
+    <sodipodi:guide
+       position="35.739782,214.49975"
+       orientation="0,-1"
+       id="guide258" />
+    <sodipodi:guide
+       position="102.5012,257.00245"
+       orientation="1,0"
+       id="guide275" />
+    <sodipodi:guide
+       position="39.999625,191.9935"
+       orientation="0,-1"
+       id="guide307" />
+    <sodipodi:guide
+       position="39.999625,146.98126"
+       orientation="0,-1"
+       id="guide339" />
+    <sodipodi:guide
+       position="38.959894,152.00834"
+       orientation="0,-1"
+       id="guide341" />
   </sodipodi:namedview>
   <metadata
      id="metadata9903">
@@ -511,12 +535,12 @@
        style="fill:none;stroke:#333333;stroke-width:0.132292"
        id="path913-59" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.138263;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.140897;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect11486"
-       width="13"
+       width="13.5"
        height="11.7"
-       x="42.968067"
-       y="43.549873"
+       x="43"
+       y="43.5"
        ry="0.21942887" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.132;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -536,5 +560,53 @@
        y="99.999062"
        rx="2.0000012"
        ry="2.0000012" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.152677;stroke-linecap:round;stroke-linejoin:round"
+       id="path254"
+       cx="37.5"
+       cy="37.5"
+       r="1" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.152677;stroke-linecap:round;stroke-linejoin:round"
+       id="path254-4"
+       cx="37.5"
+       cy="82.5"
+       r="1" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.152677;stroke-linecap:round;stroke-linejoin:round"
+       id="path254-2"
+       cx="102.5"
+       cy="37.5"
+       r="1" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.152677;stroke-linecap:round;stroke-linejoin:round"
+       id="path254-2-2"
+       cx="102.5"
+       cy="82.5"
+       r="1" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.152677;stroke-linecap:round;stroke-linejoin:round"
+       id="path254-8"
+       cx="37.5"
+       cy="102.5"
+       r="1" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.152677;stroke-linecap:round;stroke-linejoin:round"
+       id="path254-8-1"
+       cx="37.5"
+       cy="147.5"
+       r="1" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.152677;stroke-linecap:round;stroke-linejoin:round"
+       id="path254-8-1-5"
+       cx="102.5"
+       cy="147.5"
+       r="1" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.152677;stroke-linecap:round;stroke-linejoin:round"
+       id="path254-8-1-5-1"
+       cx="102.5"
+       cy="102.5"
+       r="1" />
   </g>
 </svg>
